@@ -25,8 +25,6 @@ Read & Join → Label → Split → EDA → Feature Engineering → Train & Eval
 
 * `notebooks/` - Jupyter notebooks
 * `data/` - project data
-* `artifacts/` - outputs from the notebooks
-* `src/` - Python source code
 * `Dockerfile` - Docker environment
 * `requirements.txt` - Python packages
 * `.gitignore` - files that should not be tracked by Git
