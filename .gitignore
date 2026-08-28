@@ -23,4 +23,5 @@ Thumbs.db
 
 # Temporary files
 *.tmp
-*.log.Trash-0/
+*.log
+.Trash-0/
